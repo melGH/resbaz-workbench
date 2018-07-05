@@ -1,0 +1,25 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# The OzGLAM workbench"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<div class=\"alert alert-block alert-danger\">\n",
+    "**This is an experimental project, so expect changes!**\n",
+    "</div>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This is a collection of [Jupyter](http://jupyter.org/) notebooks to help you explore and use data from Australian GLAM institutions. It's aimed at researchers in the humanities, but will include tutorials of more general interest – such as an introduction to the Trove API."
+   ]
+  }
